@@ -1,4 +1,4 @@
-### Sup Traveler, It's an honor to see you there
+### Sup Traveler, It's an honor to see you here
 
 ### My Fave Technologies
 
