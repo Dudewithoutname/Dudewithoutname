@@ -1,5 +1,5 @@
 ### Sup Traveler, It's an honor to see you here
-> `insert an interesting description`
+ insert an interesting description
 ### My Fave Technologies
 
 <a href="https://csharp.net/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
