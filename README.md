@@ -1,6 +1,6 @@
 ### Sup Traveler, It's an honor to see you here
 - Imagine an interesting description
-### My Fave Technologies
+### My Fave Technologies || Langs
 
 <a href="https://csharp.net/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
 <a href="https://unity3d.com/" title="Unity"><img src="https://github.com/get-icon/geticon/raw/master/icons/unity.svg" alt="Unity" width="21px" height="21px"></a>
